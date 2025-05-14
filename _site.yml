@@ -13,7 +13,7 @@ navbar:
           href: 04-clasificacion_supervisada.html
   right:
     - text: Repo
-      href: https://github.com/yabellini/curso_rgee
+      href: https://github.com/marlucjo/gee
 output_dir: "docs"
 output:
   html_document:
