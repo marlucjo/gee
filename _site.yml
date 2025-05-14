@@ -1,0 +1,22 @@
+navbar:
+  title: "Procesando datos espaciales con R"
+  left: 
+     - text: Temas
+       menu: 
+        - text: Introducción
+          href: 01-introduction.html
+        - text: Entorno de trabajo
+          href: 02-entorno_de_trabajo.html
+        - text: Tareas básicas
+          href: 03-tareas_basicas.html
+        - text: Clasificación supervisada
+          href: 04-clasificacion_supervisada.html
+  right:
+    - text: Repo
+      href: https://github.com/yabellini/curso_rgee
+output_dir: "docs"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
