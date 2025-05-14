@@ -1,0 +1,9 @@
+---
+title: "Introducción"
+output: 
+  html_document:
+    code_download: true
+    highlight: tango
+---
+
+## Procesando datos espaciales con gee
